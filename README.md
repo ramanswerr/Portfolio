@@ -1,2 +1,2 @@
-Here I am presenting my portfolio framework which is to be updated and onto which certifications and my achievements are to be added.
+Here I am presenting my portfolio onto which I would display my achievements and certifications.
 https://ramandeep-biotech-portfolio.lovable.app/
